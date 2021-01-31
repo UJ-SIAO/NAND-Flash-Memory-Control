@@ -1,0 +1,139 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Project/ex2
+vBUFFER
+Z0 !s110 1599449109
+!i10b 1
+!s100 7foCRBQ_aZXD<kT8M=llS0
+I14MH[oFC]98l;QYnC8`nG3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/JIE/Desktop/Project/ex4
+Z3 w1331542150
+Z4 8D:/Project/ex4/flash_b.v
+Z5 FD:/Project/ex4/flash_b.v
+L0 1626
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1599449109.000000
+Z8 !s107 D:/Project/ex4/flash_b.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/Project/ex4/flash_b.v|
+!s101 -O0
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@b@u@f@f@e@r
+vBUFFER_A
+R0
+!i10b 1
+!s100 C[bIKXU5odU`neQ;Bo_LP1
+I<YkmS@V5BabAQUo4BLB5L2
+R1
+R2
+Z11 w1599449107
+Z12 8D:\Project\ex4\flash_a.v
+Z13 FD:\Project\ex4\flash_a.v
+L0 1636
+R6
+r1
+!s85 0
+31
+R7
+Z14 !s107 D:\Project\ex4\flash_a.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|D:\Project\ex4\flash_a.v|
+!s101 -O0
+!i113 1
+R10
+n@b@u@f@f@e@r_@a
+vflash_a
+R0
+!i10b 1
+!s100 Pnz3fMQ<b7f1:k=6Aj5G72
+IEJaT`Mi]c0X2QFzeMA_<Y3
+R1
+R2
+R11
+R12
+R13
+L0 11
+R6
+r1
+!s85 0
+31
+R7
+R14
+R15
+!s101 -O0
+!i113 1
+R10
+vflash_b
+R0
+!i10b 1
+!s100 G^>zh3GAeUB7mP:?o5P2S1
+IE4IFFoD`SXLD]TIjOgKXQ3
+R1
+R2
+R3
+R4
+R5
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vNFC
+R0
+!i10b 1
+!s100 <ngl]1G_Rn_PNJC1el[C33
+ID]CMfm52CY^9^VzbhY^o30
+R1
+R2
+w1596278460
+8D:/Project/ex4/NFC.v
+FD:/Project/ex4/NFC.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/Project/ex4/NFC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/ex4/NFC.v|
+!s101 -O0
+!i113 1
+R10
+n@n@f@c
+vtest
+R0
+!i10b 1
+!s100 7A?AoeI?4d4WjS;G=0c2d3
+IU7g_dam<og^CFC4SEeKJG3
+R1
+R2
+w1599449076
+8D:/Project/ex4/tb.v
+FD:/Project/ex4/tb.v
+L0 19
+R6
+r1
+!s85 0
+31
+R7
+!s107 ./flash_b.v|./flash_a.v|D:/Project/ex4/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/ex4/tb.v|
+!s101 -O0
+!i113 1
+R10

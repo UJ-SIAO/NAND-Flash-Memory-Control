@@ -1,0 +1,28 @@
+D:/Project/ex4/tb.v {1 {vlog -work work -stats=none D:/Project/ex4/tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module flash_a
+-- Compiling module BUFFER_A
+-- Compiling module flash_b
+-- Compiling module BUFFER
+-- Compiling module test
+
+Top level modules:
+	BUFFER_A
+	test
+
+} {} {}} D:/Project/ex4/flash_b.v {1 {vlog -work work -stats=none D:/Project/ex4/flash_b.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module flash_b
+-- Compiling module BUFFER
+
+Top level modules:
+	flash_b
+
+} {} {}} D:/Project/ex4/NFC.v {1 {vlog -work work -stats=none D:/Project/ex4/NFC.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module NFC
+
+Top level modules:
+	NFC
+
+} {} {}}
